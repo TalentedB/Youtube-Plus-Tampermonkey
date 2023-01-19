@@ -6,4 +6,7 @@ This script can be installed through TamperMonkey, [at their homepage](https://w
 Once installed and running you will be able to easily set any custom speed to your youtube videos.
 And not need to deal with ads anymore.
 
+I am planning on making a general google chrome extension for this.
+
+
 Enjoy
